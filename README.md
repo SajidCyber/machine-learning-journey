@@ -20,4 +20,3 @@ including notes, experiments, projects, and internship practice.
 - Scikit-learn
 - Jupyter Notebook
 
-## Repository Structure
