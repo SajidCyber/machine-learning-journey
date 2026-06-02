@@ -1,76 +1,116 @@
+import streamlit as st
 import ollama
 
-## Importing the dataset - in this case, a simple text file with cat facts. Each line is a separate fact.
-dataset = []
-with open('cat-facts.txt', 'r', encoding='utf-8', errors='replace') as file:
-  dataset = file.readlines()
-  print(f'Loaded {len(dataset)} entries')
-
-
-## Using ollama's embedding API to create vector representations of the text chunks 
+# ==========================================
+# 1. SETUP & CONFIGURATION
+# ==========================================
 EMBEDDING_MODEL = 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf'
 LANGUAGE_MODEL = 'hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF'
 
-# Each element in the VECTOR_DB will be a tuple (chunk, embedding)
-# The embedding is a list of floats, for example: [0.1, 0.04, -0.34, 0.21, ...]
-VECTOR_DB = []
+st.set_page_config(page_title="Cat Fact AI Explorer", page_icon="🐱")
+st.title("🐱 Cat Fact AI Explorer")
+st.caption("A simple RAG application powered by Ollama and Streamlit")
 
-def add_chunk_to_database(chunk):
-  embedding = ollama.embed(model=EMBEDDING_MODEL, input=chunk)['embeddings'][0]
-  VECTOR_DB.append((chunk, embedding))
-
-
-for i, chunk in enumerate(dataset):
-  add_chunk_to_database(chunk)
-  print(f'Added chunk {i+1}/{len(dataset)} to the database')
-
-
-## Function to compute cosine similarity between two vectors. This will be used to find the most relevant chunks for a given query.
+# ==========================================
+# 2. HELPER FUNCTIONS & CACHING
+# ==========================================
 def cosine_similarity(a, b):
-  dot_product = sum([x * y for x, y in zip(a, b)])
-  norm_a = sum([x ** 2 for x in a]) ** 0.5
-  norm_b = sum([x ** 2 for x in b]) ** 0.5
-  return dot_product / (norm_a * norm_b)
+    dot_product = sum([x * y for x, y in zip(a, b)])
+    norm_a = sum([x ** 2 for x in a]) ** 0.5
+    norm_b = sum([x ** 2 for x in b]) ** 0.5
+    return dot_product / (norm_a * norm_b)
 
+# We use st.cache_resource so this database is only built ONCE when the app starts
+@st.cache_resource
+def initialize_vector_db():
+    vector_db = []
+    try:
+        with open('cat-facts.txt', 'r', encoding='utf-8', errors='replace') as file:
+            dataset = file.readlines()
+        
+        # Display a temporary loading spinner in the UI
+        with st.spinner(f"Loading and embedding {len(dataset)} cat facts..."):
+            for chunk in dataset:
+                chunk = chunk.strip()
+                if chunk:  # skip empty lines
+                    embedding = ollama.embed(model=EMBEDDING_MODEL, input=chunk)['embeddings'][0]
+                    vector_db.append((chunk, embedding))
+        return vector_db
+    except FileNotFoundError:
+        st.error("Could not find 'cat-facts.txt'. Please make sure it's in the same folder.")
+        return []
 
-## Retrieval function that takes a user query, computes its embedding, and finds the most similar chunks in the VECTOR_DB based on cosine similarity.
+# Initialize the database
+VECTOR_DB = initialize_vector_db()
+
 def retrieve(query, top_n=3):
-  query_embedding = ollama.embed(model=EMBEDDING_MODEL, input=query)['embeddings'][0]
-  # temporary list to store (chunk, similarity) pairs
-  similarities = []
-  for chunk, embedding in VECTOR_DB:
-    similarity = cosine_similarity(query_embedding, embedding)
-    similarities.append((chunk, similarity))
-  # sort by similarity in descending order, because higher similarity means more relevant chunks
-  similarities.sort(key=lambda x: x[1], reverse=True)
-  # finally, return the top N most relevant chunks
-  return similarities[:top_n]
+    query_embedding = ollama.embed(model=EMBEDDING_MODEL, input=query)['embeddings'][0]
+    similarities = []
+    for chunk, embedding in VECTOR_DB:
+        similarity = cosine_similarity(query_embedding, embedding)
+        similarities.append((chunk, similarity))
+    similarities.sort(key=lambda x: x[1], reverse=True)
+    return similarities[:top_n]
 
+# ==========================================
+# 3. CHAT INTERFACE (STREAMLIT)
+# ==========================================
 
-## Example usage: ask the user for a query, retrieve relevant chunks, and print them out.
-input_query = input('Ask me a question: ')
-retrieved_knowledge = retrieve(input_query)
+# Initialize chat history in session state so it persists across refreshes
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
-print('Retrieved knowledge:')
-for chunk, similarity in retrieved_knowledge:
-  print(f' - (similarity: {similarity:.2f}) {chunk}')
-## Now we can use the retrieved knowledge to construct a prompt for the language model. The prompt will include the retrieved chunks as context, and then we will ask the model to answer the user's question based on that context.
-instruction_prompt = f'''You are a helpful chatbot.
+# Display past chat messages
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+# Accept user input
+if user_query := st.chat_input("Ask me anything about cats!"):
+    
+    # 1. Display user message in chat message container
+    with st.chat_message("user"):
+        st.markdown(user_query)
+    st.session_state.messages.append({"role": "user", "content": user_query})
+
+    # 2. Run the RAG Retrieval
+    retrieved_knowledge = retrieve(user_query)
+
+    # 3. Build the LLM prompt with context
+    instruction_prompt = f'''You are a helpful chatbot.
 Use only the following pieces of context to answer the question. Don't make up any new information:
 {'\n'.join([f' - {chunk}' for chunk, similarity in retrieved_knowledge])}
 '''
 
+    # 4. Display assistant response in chat message container with streaming
+    with st.chat_message("assistant"):
+        response_placeholder = st.empty()
+        full_response = ""
+        
+        # Call Ollama stream
+        stream = ollama.chat(
+            model=LANGUAGE_MODEL,
+            messages=[
+                {'role': 'system', 'content': instruction_prompt},
+                {'role': 'user', 'content': user_query},
+            ],
+            stream=True,
+        )
+        
+        # Render chunks onto the UI in real-time
+        for chunk in stream:
+            full_response += chunk['message']['content']
+            response_placeholder.markdown(full_response + "▌")
+        
+        # Remove the cursor block at the end
+        response_placeholder.markdown(full_response)
+        
+        # Sidebar feature: show what knowledge was retrieved (Optional, but cool!)
+        with st.sidebar:
+            st.write("### 🧠 Retrieved Context for Last Query:")
+            for chunk, sim in retrieved_knowledge:
+                st.write(f"**Score: {sim:.2f}**\n{chunk}")
+                st.divider()
 
-stream = ollama.chat(
-  model=LANGUAGE_MODEL,
-  messages=[
-    {'role': 'system', 'content': instruction_prompt},
-    {'role': 'user', 'content': input_query},
-  ],
-  stream=True,
-)
-
-# print the response from the chatbot in real-time
-print('Chatbot response:')
-for chunk in stream:
-  print(chunk['message']['content'], end='', flush=True)
+    # Save assistant history
+    st.session_state.messages.append({"role": "assistant", "content": full_response})
