@@ -1,11 +1,12 @@
+import os
 import streamlit as st
 import ollama
 
 # ==========================================
 # 1. SETUP & CONFIGURATION
 # ==========================================
-EMBEDDING_MODEL = 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf'
-LANGUAGE_MODEL = 'hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF'
+EMBEDDING_MODEL = os.environ.get('OLLAMA_EMBEDDING_MODEL', 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf')
+LANGUAGE_MODEL = os.environ.get('OLLAMA_LANGUAGE_MODEL', 'hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF')
 
 st.set_page_config(page_title="Cat Fact AI Explorer", page_icon="🐱")
 st.title("🐱 Cat Fact AI Explorer")
@@ -20,6 +21,17 @@ def cosine_similarity(a, b):
     norm_b = sum([x ** 2 for x in b]) ** 0.5
     return dot_product / (norm_a * norm_b)
 
+def format_ollama_error(error: Exception) -> str:
+    message = str(error)
+    if 'unable to allocate cpu buffer' in message.lower() or 'memory allocation' in message.lower():
+        return (
+            'Ollama could not load the model because there is not enough available CPU memory. '
+            'Try a smaller model or increase available RAM. Set the environment variable '
+            '`OLLAMA_LANGUAGE_MODEL` to a lighter Ollama model and restart the app.'
+        )
+    return f'Ollama error: {message}'
+
+
 # We use st.cache_resource so this database is only built ONCE when the app starts
 @st.cache_resource
 def initialize_vector_db():
@@ -33,8 +45,12 @@ def initialize_vector_db():
             for chunk in dataset:
                 chunk = chunk.strip()
                 if chunk:  # skip empty lines
-                    embedding = ollama.embed(model=EMBEDDING_MODEL, input=chunk)['embeddings'][0]
-                    vector_db.append((chunk, embedding))
+                    try:
+                        embedding = ollama.embed(model=EMBEDDING_MODEL, input=chunk)['embeddings'][0]
+                        vector_db.append((chunk, embedding))
+                    except Exception as e:
+                        st.error(format_ollama_error(e))
+                        return []
         return vector_db
     except FileNotFoundError:
         st.error("Could not find 'cat-facts.txt'. Please make sure it's in the same folder.")
@@ -51,6 +67,17 @@ def retrieve(query, top_n=3):
         similarities.append((chunk, similarity))
     similarities.sort(key=lambda x: x[1], reverse=True)
     return similarities[:top_n]
+
+
+def format_ollama_error(error: Exception) -> str:
+    message = str(error)
+    if 'unable to allocate cpu buffer' in message.lower():
+        return (
+            'Ollama could not load the language model because there is not enough available CPU memory. '
+            'Try a smaller model or increase available RAM. You can set the environment variable '
+            '`OLLAMA_LANGUAGE_MODEL` to a lighter Ollama model and restart the app.'
+        )
+    return f'Ollama error: {message}'
 
 # ==========================================
 # 3. CHAT INTERFACE (STREAMLIT)
@@ -87,30 +114,40 @@ Use only the following pieces of context to answer the question. Don't make up a
         response_placeholder = st.empty()
         full_response = ""
         
-        # Call Ollama stream
-        stream = ollama.chat(
-            model=LANGUAGE_MODEL,
-            messages=[
-                {'role': 'system', 'content': instruction_prompt},
-                {'role': 'user', 'content': user_query},
-            ],
-            stream=True,
-        )
-        
-        # Render chunks onto the UI in real-time
-        for chunk in stream:
-            full_response += chunk['message']['content']
-            response_placeholder.markdown(full_response + "▌")
-        
-        # Remove the cursor block at the end
-        response_placeholder.markdown(full_response)
-        
-        # Sidebar feature: show what knowledge was retrieved (Optional, but cool!)
-        with st.sidebar:
-            st.write("### 🧠 Retrieved Context for Last Query:")
-            for chunk, sim in retrieved_knowledge:
-                st.write(f"**Score: {sim:.2f}**\n{chunk}")
-                st.divider()
+        try:
+            # Call Ollama stream
+            stream = ollama.chat(
+                model=LANGUAGE_MODEL,
+                messages=[
+                    {'role': 'system', 'content': instruction_prompt},
+                    {'role': 'user', 'content': user_query},
+                ],
+                stream=True,
+            )
+            
+            # Render chunks onto the UI in real-time
+            for chunk in stream:
+                full_response += chunk['message']['content']
+                response_placeholder.markdown(full_response + "▌")
+            
+            # Remove the cursor block at the end
+            response_placeholder.markdown(full_response)
+            
+            # Sidebar feature: show what knowledge was retrieved (Optional, but cool!)
+            with st.sidebar:
+                st.write("### 🧠 Retrieved Context for Last Query:")
+                for chunk, sim in retrieved_knowledge:
+                    st.write(f"**Score: {sim:.2f}**\n{chunk}")
+                    st.divider()
 
-    # Save assistant history
-    st.session_state.messages.append({"role": "assistant", "content": full_response})
+        except ollama.ResponseError as e:
+            response_placeholder.empty()
+            st.error(format_ollama_error(e))
+            full_response = ""
+        except Exception as e:
+            response_placeholder.empty()
+            st.error(f"Error generating chat response: {e}")
+
+    # Save assistant history only if a response was produced
+    if full_response:
+        st.session_state.messages.append({"role": "assistant", "content": full_response})

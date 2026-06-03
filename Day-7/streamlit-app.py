@@ -7,8 +7,8 @@ st.title("Ollama Retrieval-Augmented Generation Demo")
 st.write("This is a simple demo of how to use Ollama for retrieval-augmented generation. The app will take a user query, retrieve relevant chunks of information from a vector database, and then use those chunks as context to generate a response from a language model.")
 
 # Model Configurations
-EMBEDDING_MODEL = 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf'
-LANGUAGE_MODEL = 'hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF'
+EMBEDDING_MODEL = os.environ.get('OLLAMA_EMBEDDING_MODEL', 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf')
+LANGUAGE_MODEL = os.environ.get('OLLAMA_LANGUAGE_MODEL', 'hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF')
 
 # --- 1. Vector DB Setup & Caching ---
 @st.cache_resource
@@ -44,7 +44,7 @@ def initialize_vector_db():
             embedding = ollama.embed(model=EMBEDDING_MODEL, input=chunk)['embeddings'][0]
             vector_db.append((chunk, embedding))
         except Exception as e:
-            st.error(f"Error connecting to Ollama: {e}")
+            st.error(format_ollama_error(e))
             return []
         progress_bar.progress((i + 1) / len(dataset))
         
@@ -79,6 +79,17 @@ def retrieve(query, top_n=3):
   similarities.sort(key=lambda x: x[1], reverse=True)
   # finally, return the top N most relevant chunks
   return similarities[:top_n]
+
+
+def format_ollama_error(error: Exception) -> str:
+    message = str(error)
+    if 'unable to allocate cpu buffer' in message.lower():
+        return (
+            'Ollama could not load the language model because there is not enough available CPU memory. '
+            'Try a smaller model or increase available RAM. Set the environment variable '
+            '`OLLAMA_LANGUAGE_MODEL` to a lighter Ollama model and restart the app.'
+        )
+    return f'Ollama error: {message}'
 
 
 # --- 3. UI and Interaction ---
@@ -137,5 +148,9 @@ Use only the following pieces of context to answer the question. Don't make up a
         # Final update to remove the cursor icon
         response_placeholder.markdown(full_response)
         
+    except ollama.ResponseError as e:
+        response_placeholder.empty()
+        st.error(format_ollama_error(e))
     except Exception as e:
+        response_placeholder.empty()
         st.error(f"Error generating chat response: {e}")
