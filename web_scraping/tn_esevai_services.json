@@ -1,0 +1,1882 @@
+[
+    {
+        "department": "Animal Husbandry, Dairying and Fisheries",
+        "service_name": "National Fishermen Savings cum Relief Scheme",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/ADF201NFSRSchemeOperator.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhaar Card 2.Applicant’s Recent Photo 3.Smart Ration Card No 4.First page of bank pass book 5.Fishermen Cooperative Society Passbook with photo 6.Voter Card 7.Bio Metric Identity Card 8.Address Proof (If the given residential address is different from Aadhaar)"
+    },
+    {
+        "department": "Animal Husbandry, Dairying and Fisheries",
+        "service_name": "Tamil Nadu Marine Fisherwomen Savings cum Relief Scheme",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/ADF202TNMFWomenOperator.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhaar Card 2.Applicant’s Recent Photo 3.Smart Ration Card No 4.First page of bank pass book 5.Fishermen Cooperative Society Passbook with photo 6.Voter Card 7.Bio Metric Identity Card 8.Address Proof (If the given residential address is different from Aadhaar)"
+    },
+    {
+        "department": "Animal Husbandry, Dairying and Fisheries",
+        "service_name": "Relief Assistance to marine Fishermen families during Fishing Ban period",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/ADF_203_FishermenBan_Period_Operator.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhaar Card 2.Applicant’s Recent Photo 3.Smart Ration Card No 4.First page of bank pass book 5.Fishermen Cooperative Society Passbook with photo 6.Voter Card 7.Bio Metric Identity Card 8.Address Proof (If the given residential address is different from Aadhaar)"
+    },
+    {
+        "department": "Animal Husbandry, Dairying and Fisheries",
+        "service_name": "Special Allowance to marine Fishermen families during Fishing lean period",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/ADF_204_Fishermenlean_Period_Operator.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhaar Card 2.Applicant’s Recent Photo 3.Smart Ration Card No 4.First page of bank pass book 5.Fishermen Cooperative Society Passbook with photo 6.Voter Card 7.Bio Metric Identity Card 8.Address Proof (If the given residential address is different from Aadhaar)"
+    },
+    {
+        "department": "Animal Husbandry, Dairying and Fisheries",
+        "service_name": "Renewal of Relief Assistance to Marine Fishermen Families during BAN period",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/ADF_205_Renewal_of_Relief_Assistance_to_Marine_Fishermen_Families.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhaar Card 2.Applicant’s Recent Photo 3.Smart Ration Card No 4.First page of bank pass book 5.Fishermen Cooperative Society Passbook with photo 6.Voter Card 7.Bio Metric Identity Card 8.Address Proof (If the given residential address is different from Aadhaar)"
+    },
+    {
+        "department": "Animal Husbandry, Dairying and Fisheries",
+        "service_name": "Renewal of Special Allowance to Marine Fishermen during Fishing LEAN period",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/ADF_206_Renewal_of_Relief_Assistance_to_Marine_Fishermen_Families.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhaar Card 2.Applicant’s Recent Photo 3.Smart Ration Card No 4.First page of bank pass book 5.Fishermen Cooperative Society Passbook with photo 6.Voter Card 7.Bio Metric Identity Card 8.Address Proof (If the given residential address is different from Aadhaar)"
+    },
+    {
+        "department": "Anna University",
+        "service_name": "TNEA 2016 BE/ BTech Online registration",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/Anna University user manual.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Chennai Traffic Police",
+        "service_name": "Challan Payment",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CTP - Challan Payment.pdf",
+        "application_fee": "upto 250, more than 250 of fine amount",
+        "service_charge": "5, 5%",
+        "documents": "NA"
+    },
+    {
+        "department": "Civil Supplies and Consumer Protection department",
+        "service_name": "Application for New Ration Card",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/PDS-501_Application_for_New_Ration_card.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Civil Supplies and Consumer Protection department",
+        "service_name": "Addition of New Family Member in Ration Card",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User_Manual_CSC_PDS_502_Addition_of_New_Fmily_Members_in_Ration.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "Civil Supplies and Consumer Protection department",
+        "service_name": "Family Head Member Change",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User_Manual_CSC_PDS-503_Family_Head_Member_Change.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "Civil Supplies and Consumer Protection department",
+        "service_name": "Removal of Family Member in Ration Card",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User_Manual_CSC_PDS_504_Removal_of_Family_Member_in_Ration_card.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "Civil Supplies and Consumer Protection department",
+        "service_name": "Change of Address in Ration Card",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User_Manual_CSC_PDS_505_Change_of_address_in_Ration_card_docx.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "Civil Supplies and Consumer Protection department",
+        "service_name": "Re-Print of Smartcard Application",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User_Manual_CSC_PDS-506_Reprint_of_Smartcard_Application.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "Commisionerate Municipal Administration",
+        "service_name": "Collection of Non Tax",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CollectionofNonTax_CMA.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Commisionerate Municipal Administration",
+        "service_name": "Collection of Professional Tax",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CollectionofProfessionalTax_CMA.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Commisionerate Municipal Administration",
+        "service_name": "Collection of Property tax",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CollectionofPropertytax_CMA.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Commisionerate Municipal Administration",
+        "service_name": "Collection of Underground Drainage Charge",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CollectionofUndergroundDrainageCharge_CMA.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Commisionerate Municipal Administration",
+        "service_name": "Collection of Water Charges",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CollectionofWaterCharges_CMA.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "Issuance of PSTM Certificate for Govt Schools",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Commisionerate of Transport",
+        "service_name": "eChallan Payment",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/TPD-601 eChallan Payment Usermanual.pdf",
+        "application_fee": "0",
+        "service_charge": "5- upto 250 5% of fine amount above 250",
+        "documents": "NA"
+    },
+    {
+        "department": "Directorate of Boilers",
+        "service_name": "Registration of Boiler under boilers act",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DBL_401_RegistrationofLicenseunderBoilersAct_Operator.pdf",
+        "application_fee": "0",
+        "service_charge": "200",
+        "documents": "1.Form No. II or Form No. XVII 2.Form No. III 3.Form No. IIIA 4.Form No. IIIB 5.Form No. IIIC 6.Form No. IV or IV A 7.Drawings 8.Other Documents"
+    },
+    {
+        "department": "Directorate of Boilers",
+        "service_name": "Renewal of License under boilers act",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/RenewalofLicenseunderBoilersAct_Operator.pdf",
+        "application_fee": "0",
+        "service_charge": "200",
+        "documents": "Previous Licence copy Other Documents"
+    },
+    {
+        "department": "Directorate of Boilers",
+        "service_name": "Application for Approval of Manufacturer/Erector of Boilers",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_DBL-403_ManufacturerErector_Boilers.pdf",
+        "application_fee": "0",
+        "service_charge": "200",
+        "documents": "NA"
+    },
+    {
+        "department": "Directorate of Boilers",
+        "service_name": "Application for Renewal of Manufacturer/Erector of Boilers",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_DBL-404_Renewal_of_ManufacturerErector_Boilers.pdf",
+        "application_fee": "0",
+        "service_charge": "200",
+        "documents": "NA"
+    },
+    {
+        "department": "Directorate of Boilers",
+        "service_name": "Steam Test For Boilers",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User Manual(Applicant_CSC)_DBL_405_Steam Test for Boilers.pdf",
+        "application_fee": "0",
+        "service_charge": "200",
+        "documents": "NA"
+    },
+    {
+        "department": "Directorate of Fire & Rescue",
+        "service_name": "MSB Compliance Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/UserManual(CSCOperator)_DFR-101_MSBCompliance.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Planning Permission NOC from Fire Department 2. Planning Permission from Competent Authority (Local Body, DTCP, CMDA, etc.) 3. Approved Plan from Competent Authority (Local Body, DTCP, CMDA, etc.) 4. Ownership Proof or Rental or Lease Agreement 5. ID Proof 6. Address Proof 7. Covering Letter"
+    },
+    {
+        "department": "Directorate of Fire & Rescue",
+        "service_name": "NOC for MSB Planning Permission",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/UserManual(CSCOperator)_DFR-102_NOCforMSBPlanningPermission.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Proposed Building Plan (Certified by Approved Panel Engineer from the Local Body) 2. Proposed Fire Plan (Certified by Approved Panel Engineer from the Local Body) 3. Ownership Proof or Rental or Lease Agreement 4. ID Proof 5. Address Proof 6. Covering Letter"
+    },
+    {
+        "department": "Directorate of Fire & Rescue",
+        "service_name": "NOC for Non - MSB Planning Permission",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/UserManualCSCOperator_DFR_103_NOCforNon_MSBPlanningPermission.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Proposed Building Plan (Certified by Approved Panel Engineer from the Local Body) 2. Proposed Fire Plan (Certified by Approved Panel Engineer from the Local Body) 3. Ownership Proof or Rental or Lease Agreement 4. ID Proof 5. Address Proof 6. Covering Letter"
+    },
+    {
+        "department": "Directorate of Fire & Rescue",
+        "service_name": "MSB Fire License Registration and Renewal",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/UserManualCSCOperator_DFR_401_MSBFireLicenseRegistrationandRenew.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Compliance Certification from Fire Department 2. Planning Permission from Competent Authority (Local Body, DTCP, CMDA, etc.) 3. Approved Plan from Competent Authority (Local Body, DTCP, CMDA, etc.) 4. Ownership Proof or Rental or Lease Agreement 5. ID Proof 6. Address Proof 7. Covering Letter"
+    },
+    {
+        "department": "Directorate of Fire & Rescue",
+        "service_name": "Non - MSB Fire License Registration and Renewal",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/UserManualCSCOperator_DFR_402_Non_MSBFireLicenseRegistrationandR.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Planning Permission from Competent Authority (Local Body, DTCP, CMDA, etc.) 2. Approved Plan from Competent Authority (Local Body, DTCP, CMDA, etc.) 3. Ownership Proof or Rental or Lease Agreement 4. ID Proof 5. Address Proof 6. Covering Letter"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Scholarship Under Dr.MGR Handloom Weavers Welfare Trust",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT201AppScholarshipHandloomoperator.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.Bonafide Certificate 4.First page of Bank Passbook 5.Mark sheet 6.Member ID Card and Other Documents"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Tamil Nadu Co-operative Handloom Weavers Savings and Security Scheme – Enrolment",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT202AppTNCooperativeHandlooms.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.First page of Bank Passbook 4.Other Document 5.Ration Card 6.Society Membership ID card 7.Voter ID"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Tamil Nadu Co-operative Handloom Old Age Pension Scheme",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT203AppTNHandOldAgePensionScheme.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.First page of Bank Passbook 4.Member Passbook and Other Documents 5.Membership ID card 6.OAP Scheme Member Admission Order Copy 7.Ration Card 8.Voter ID"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Tamil Nadu Co-operative Handloom Weavers Family Pension Scheme",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT204AppTNHandloomsWeaversFamily.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.Death Certificate of the Weaver 4.First page of Bank Passbook 5.Legal Heir Certificate 6.Member Passbook and Other Documents 7.Membership ID card 8.Ration Card 9.Voter ID 10.Family Pension Scheme Member Admission Order Copy 11.Death Certificate of Nominee"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Life Insurance Schemes for Handlooms Weavers and Ancillary Workers - Enrolment",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT205AppLifeInsuranceHandloomWeaversAncillaryWorkers.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.First page of the Bank Passbook 4.Proof of Weaver / Ancillary Worker 5.Ration Card 6.Voter ID 7.Member ID Card 8.Member Passbook and Other Documents"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Enrolment Shiksha Sahayog Yojana Scheme under Mahatma Gandhi Bunkar Bima Yojana",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT206AppEnrollmentClaimofShikshaSahayogYojanaMGandhiBBYojana.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.Bonafide Certificate 4.ECS Mandate 5.First page of the Bank Passbook 6.Mark Sheet 7.Previous Installment Utilization Certificate 8.Ration Card 9.Voter ID Card 10.Member ID Card 11.Member Passbook and Other Documents 12.MGBBY Member Admission Order Copy"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Tamil Nadu Co-operative Handlooms Weavers Savings and Security Scheme – Claim (Weaver)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT207AppTNHandloomsWeaverSavingsSecuritySchemeWeaver.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.First page of Bank Passbook 4.Member Passbook and other Documents 5.Membership ID card 6.Ration Card 7.Voter ID"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Tamil Nadu Co-operative Handlooms Weavers Savings and Security Scheme – Claim (Nominee)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT208AppTNHandloomsWeaverSavingsSecurityNominee.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.Death Certificate of the Weaver 4.First page of Bank Passbook 5.Legal Heir Certificate if Nominee is Death 6.Member Passbook and other Documents 7.Membership ID card 8.Ration Card 9.Voter ID"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Life Insurance Schemes for Handlooms Weavers and Ancillary Workers – Claim (Disability)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT209AppLifeInsuranceHandloomWeaversAncillaryWorkersDisability.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.Disability Certificate issued by appropriate Authority 4.ECS Mandate 5.FIR Copy 6.First page of the Bank Passbook 7.Police Investigation Report 8.Ration Card 9.Voter ID 10.LIC Annexure III 11.Member ID Card 12.Member Passbook and Other Document 13.MGBBY Member Admission Order Copy 14.Discharge Receipt"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Life Insurance Schemes for Handlooms Weavers and Ancillary Workers – Claim (Death)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT210AppLifeInsuranceHandloomWeaversAncillaryWorkersDeath.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1.Aadhaar Card 2.Applicant Photo 3.Death Certificate of Weaver 4.ECS Mandate 5.First Page of Bank Passbook 6.Legal Heir Certificate (If Nominee is Death) 7.LIC Annexure III 8.Member Passbook 9.Membership ID Card 10.MGBBY Member Admission Order Copy 11.Other Documents 12.Police Investigation Report (Mandatory for Accidental Death) 13.Post Mortem Report (Mandatory for Accidental Death) 14.Ration Card 15.Voter ID 16.Employer Statement 17.FIR Copy (Mandatory for Accidental Death) 18.Declaration Form 19.Discharge Receipt 20.Claim Form 21.Claimant's Statement"
+    },
+    {
+        "department": "Directorate of Handlooms & Textiles",
+        "service_name": "Application for Scholarships under Dr.MGR Handloom Weavers Welfare Trust Renewal",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DHT211AppScholarshipunderMGRHandloomWeaversRenewal.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Bonafide Certificate"
+    },
+    {
+        "department": "Directorate of Public Health",
+        "service_name": "CRS-Death Registration",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/DPH101DeathRegistationUsermanual.pdf",
+        "application_fee": "0",
+        "service_charge": "100",
+        "documents": "NA"
+    },
+    {
+        "department": "Directorate of Public Health",
+        "service_name": "Printing of Birth Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/PrintingofBirthCertificate_UM.pdf",
+        "application_fee": "0",
+        "service_charge": "100",
+        "documents": "NA"
+    },
+    {
+        "department": "Directorate of Public Health",
+        "service_name": "Printing of Death Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/PrintingofDeathCertificate_UM.pdf",
+        "application_fee": "0",
+        "service_charge": "100",
+        "documents": "NA"
+    },
+    {
+        "department": "Employment & Training",
+        "service_name": "Printing of registration ID",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User Manual_for Employment_502 Printing of Registration ID.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Employment & Training",
+        "service_name": "Application for Renewal",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/User Manual_for Employment_504 Application for Renewal.pdf",
+        "application_fee": "0",
+        "service_charge": "15",
+        "documents": "NA"
+    },
+    {
+        "department": "Employment & Training",
+        "service_name": "Application for profile updation",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "NA"
+    },
+    {
+        "department": "Employment & Training",
+        "service_name": "Application for Registration",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "NA"
+    },
+    {
+        "department": "Greater Chennai Corporation",
+        "service_name": "Printing of Birth Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/COC_101_PrintingofBirthCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "40",
+        "documents": "NA"
+    },
+    {
+        "department": "Greater Chennai Corporation",
+        "service_name": "Printing of Death Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/COC_102_PrintingofDeathCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "40",
+        "documents": "NA"
+    },
+    {
+        "department": "Greater Chennai Corporation",
+        "service_name": "Collection of property tax",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/COC-603_Collection of Property Tax.pdf",
+        "application_fee": "0",
+        "service_charge": "40",
+        "documents": "NA"
+    },
+    {
+        "department": "Greater Chennai Corporation",
+        "service_name": "Renewal of trade license",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/COC-401_Renewal of Trade License.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Greater Chennai Corporation",
+        "service_name": "Collection of company tax",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/COC-601_Collection of Company Tax.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Greater Chennai Corporation",
+        "service_name": "Collection of professional tax",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/COC-602_Collection of Professional Tax.pdf",
+        "application_fee": "Upto 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 above",
+        "service_charge": "15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Inspectorate General of Registration",
+        "service_name": "Issuance of Encumbrance Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/IGR 401 Issue of Encumbrance Certificate.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "NA"
+    },
+    {
+        "department": "Inspectorate General of Registration",
+        "service_name": "Issuance of Certified Copies",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/IGR 402 Issue of Certified Copy.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "NA"
+    },
+    {
+        "department": "Inspectorate General of Registration",
+        "service_name": "EC Download",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/IGR 403 Printing of Encumbrance Certificate.pdf",
+        "application_fee": "0",
+        "service_charge": "2",
+        "documents": "NA"
+    },
+    {
+        "department": "Inspectorate General of Registration",
+        "service_name": "CC Download",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/IGR 403 Printing of Certified Copy.pdf",
+        "application_fee": "0",
+        "service_charge": "2",
+        "documents": "NA"
+    },
+    {
+        "department": "Integrated Financial and Human Resource Management System",
+        "service_name": "Generation of Challan with online payment",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/IFH 401 Generation of Challan with Online payment.pdf",
+        "application_fee": "Upto 5000 5001 to 10000 10001 above",
+        "service_charge": "50 75 100",
+        "documents": "NA"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "e-Adangal Extract Download",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Community Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-101_CommunityCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Community Certificate of Father or Community Certificate of Mother or Community Certificate of Siblings 4. Self-Declaration of Applicant 5. DNC Certificate"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Nativity Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-102_NativityCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Birth Certificate 4. School Education Certificate(or) Employment Details(or)other proof to prove continuous residence of 5 years 5. Self-Declaration of Applicant"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Income Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-103_IncomeCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Applicant Photo 2. Any Address Proof 3. TIN Number and the Trade 4. Details of Land Holdings 5. Details of houses owned ward wise 6. Family or Smart Card 7. Self-Declaration of Applicant 8. Salary Certificate(Latest Copy) 9. PAN card"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "First Graduate Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-104_FirstGraduateCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Applicant Transfer Certificate 4. Self-Declaration of Father 5. Self-Declaration of Mother 6. Father Transfer Certificate 7. Mother Transfer Certificate 8. Family or Smart Card 9. Self-Declaration of Applicant 10. Current Academic year Certificates"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Deserted Woman Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-105DesertedWomanCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Proof of Residence 3. Proof of Marriage 4. Self-Declaration of Applicant 5. Proof of Desertion or FIR Details"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Agricultural Income Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-106_AgriculturalIncomeCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Last One Year Adangal 4. Self-Declaration of Applicant 5. Chitta 6. Proof of Lease (NOC from the Landholder) 7. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Family Migration Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-107_FamilyMigrationCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Self-Declaration of Applicant 4. Marriage Invitation or Marriage Certificate 5. Previous Residence Address Proof Document 6. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Unemployment Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-108_UnemploymentCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Educational Qualification Proof 4. Transfer Certificate 5. Family Income Certificate 6. Self-Declaration of Applicant 7. Employment Card 8. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Widow Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-109_WidowCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Death Certificate of Husband 4. Marriage Registration certificate or any other documents to prove marriage 5. Self Declaration of Applicant 6. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Certificate for Loss of Educational Records due to disasters",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-111_CertificateForLossofEducationalRecordsduetoDisasters.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "Supporting Documents 1. Photo 2. Residence Proof 3. Self-Declaration of Applicant 4. Damage Certificate Xerox Copy"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Inter Caste Marriage Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-113_IntercasteMarriageCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Combined Photo of Husband and Wife 2. Permanent Community Certificate of the Groom 3. Permanent Community Certificate of the Bride 4. Marriage Registration Certificate 5. Self-Declaration of Applicant 6. Any Address Proof"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Legal Heir Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-114_LegalHeirCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Address of the deceased where he ordinarily resided before death (any one from the below document list) 2. Divorce Copy 3. Death Certificate of First Wife 4. Evidence for second marriage 5. Self-Declaration of the spouse indicating all other legal heirs (including Mother in law) 6. Marriage Registration Certificate or Passport or Voter ID or Aadhaar Cards or NPR data to establish relationship 7. Birth Certificate of all the children or T.C of all the children 8. Death Certificate of the deceased 9. Death Certificate of both the parents 10. Birth Certificate or Community Certificate or Passport or Aadhaar (all eligible heirs) or TC or NPR or Employee Service Board 11. Birth Certificate or TC or NPR or Employee Service Record or Community Certificate or Passport or Voter ID or Aadhaar of all eligible heirs 12. Guardianship order issued by Honble Civil court to prove relationship to the heirs 13. Self-declaration of the parents 14. Self-Declaration of Applicant 15. Document Proof for Legally Adoption"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Other Backward Classes (OBC) Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-115_OtherBackwardClasses(OBC)Certificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "Supporting Documents 1. Photo 2. Any Address Proof 3. Proof of Income (Payslip, Income Certificate, etc) 4. Community Certificate 5. Income Tax Return 6. Self-Declaration of Applicant 7. Income Tax Return 8. Other Documents 9. Proof of Income (Payslip, Income Certificate, etc)"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Residence Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-116_ResidenceCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Current Address Proof 3. Self-Declaration of Applicant 4. Passport 5. Driving Licence 6. PAN Card 7. Passbooks with photograph issued by Bank/Post Office 8. Smart Card issued by RGI under NPR 9. Health Insurance Smart Card issued under the scheme of Ministry of Labour 10. Pension Document with Photograph 11. Service Identity Cards with Photograph issued to employees by Central/State Govt 12. Officials Identity cards issued to MPs/MLAs/MLCs 13. Authenticated Photo Voter Slip issued by the election machinery"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Small / Marginal Farmer Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-117_SmallMarginalFarmerCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Chitta 3. Self-Declaration of Applicant 4. Adangal 5. Encumbrance 6. Any Address Proof 7. Sale Deeds 8. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Solvency Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-118_SolvencyCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Solvency proof of the Applicant 3. Encumbrance Certificate 4. Latest Guideline Value Statement 5. Liability Amount Certificate 6. Mortgage Certificate 7. Property Tax 8. Challan Copy 9. Chitta or Patta 10. Self-Declaration of Applicant 11. Lease Agreement 12. Building Value 13. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "No Male Child Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-119_NoMaleChildCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Combined Photo of Parents 2. Residence Proof 3. Sterilization Certificate of Parents 4. Birth certificate of First Children 5. Birth certificate of Second Children 6. Birth certificate of Third Children 7. Birth certificate of Fourth Children 8. Birth certificate of Fifth Children 9. Birth certificate of Sixth Children 10. Birth certificate of Seventh Children 11. Birth certificate of Eighth Children 12. Birth certificate of Ninth Children 13. Birth certificate of Tenth Children 14. Family or Smart Card 15. Self-Declaration of Applicant 16. Other documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Unmarried Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-120_UnmarriedCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Age Proof 4. Self-Declaration of Applicant 5. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Economically Weaker Sections(Income & Assets)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-122_Economically Weaker Section.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Applicant Photo 2. Any Address Proof 3. TIN Number and the Trade 4. Details of Land Holdings 5. Details of houses owned ward wise 6. Smart or Ration Card 7. Self-Declaration of Applicant 8. Affidavit 9. Salary Certificate(Latest) 10. PAN card"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Issuance of Jain Religious Minority Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_123_Issuance_of_Jain_Religious_Minority.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Applicant Photo 2. Address Proof (Aadhaar Card or Voter ID Card or Passport or Driving Licence or Bank Passbookor Pension Payment order) 3. Copy of Jain Religious Minority Certificate of Parents of the applicant 4. Jain Certificate obtained from an authorised signatory of a Jain Temple or Jain Sthanak or Jain Bhavan The Trusts or Societies should have been enrolled with District Collector 5. Religion of Father & Mother 6. Self Declaration of the Applicant"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Destitute Widow Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_123_Destitute_Widow_Certificate.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Applicant Photo 2. Smart or Ration Card 3. Death Certificate of husband 4. Legal Heir Certificate 5. Aadhar Card 6. Income Certificate 7. Self Declaration of the Applicant 8. Address proof"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Indira Gandhi National Old Age Pension Scheme (IGNOPS)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_201_Indira_Gandhi_National_Old_Age.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Applicant Photo 2. Aadhaar Card 3. Aadhaar Consent Form 4. Smart or Ration Card or Any Address Proof 5. Self-declaration of Applicant 6. Any Identity Proof(Voter ID Card,Passport,PAN Card,Driving License) 7. Bank Passbook"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Destitute Widow Pension Scheme (DWPS)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_202_Destitute_Widow_Pension_Scheme.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Applicant Photo 2. Aadhaar Card 3. Aadhaar Consent Form 4. Smart or Ration Card or Any Address Proof 5. Husband Death Certificate 6. Self-declaration of Applicant 7. Widow Certificate 8. Any Identity Proof(Voter ID Card,Passport,PAN Card,Driving License) 9. Bank Passbook"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Destitute Deserted Woman Pension Scheme (DDWPS)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_203_Destitute_Deserted_Woman_Pension.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Applicant Photo 2. Aadhaar Card 3. Aadhaar Consent Form 4. Smart or Ration Card or Any Address Proof 5. Court order copy 6. Self-declaration of Applicant 7. Any Identity Proof(Voter ID Card,Passport,PAN Card,Driving License) 8. Bank Passbook"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Unmarried Women Pension Scheme (UWPS)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_204_Unmarried_Women_Pension_Scheme.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Applicant Photo 2. Aadhaar Card 3. Aadhaar Consent Form 4. Smart or Ration Card or Any Address Proof 5. Self-declaration of Applicant 6. Bank Passbook 7. Any Identity Proof(Voter ID Card,Passport,PAN Card,Driving License)"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Chief Minister Uzhavar Pathukapu Thittam (CMUPT)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_205_Chief_Minister_Uzhavar_Pathukapu.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Applicant Photo 2. Aadhaar Card 3. Aadhaar Consent Form 4. Smart or Ration Card or Any Address Proof 5. CMUPT Card 6. Self-declaration of Applicant 7. Bank Passbook 8. Any Identity Proof(Voter ID Card,Passport,PAN Card,Driving License)"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Differently Abled Pension Scheme (DAPS)",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_206_Differently_Abled_Pension_Scheme.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1. Applicant Photo 2. Aadhar Card 3. Aadhaar Consent Form 4. Smart or Ration Card or Any Address Proof 5. National Disability ID Card 6. Self-declaration of Applicant 7. Any Identity Proof Voter ID Card, Passport, PAN Card, Driving License(Optional) 8. Bank Passbook"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Licence under Pawn Broker Act",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_401_Licence_Under_Pawn_Broker_Act.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Residence Proof 3. Solvency Certificate of the Applicant 4. Shop Address Proof 5. Property Document Proof or Patta or Chitta 6. Previous Licence 7. Challan 8. Form A 9. Nominee character certificate 10. Nominee solvency proof 11. Nominee residence proof 12. Building Licence document 13. Building Blue Print 14. PAN Card 15. Self-Declaration of Applicant 16. Lease Agreement 17. IT Return document"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Money Lender's Licence",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV-402_Money Lender_s Licence.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Residence Proof 3. Solvency Certificate of the Applicant 4. Shop Address Proof 5. Property Document Proof or Patta or Chitta 6. Previous Licence 7. Challan 8. Form A 9. Building Licence document 10. Building Blue Print 11. PAN Card 12. Self-Declaration of Applicant 13. Lease Agreement 14. IT Return document"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Issuance of Public Building Licence",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_404_Issuance_of_Public_Building_Licence.pdf",
+        "application_fee": "0",
+        "service_charge": "500",
+        "documents": "1. Copy of Building License 2. Building Stability Certificate 3. NOC from fire and Rescue Department 4. Sanitary Certificate from Local Body 5. Building Plan as aaproved by Competent Authority 6. Ownership Deed 7. Legal Document for Lease 8. Legal Document for Mortage in Possession 9. Legal Document for Auhtority Signatory 10. Self-Declaration of Applicant 11. Challan Copy 12. Address Proof 13. Other Documents"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "Temporary Crackers Licence",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_REV_403_Temporary Crackers License.pdf",
+        "application_fee": "0",
+        "service_charge": "500",
+        "documents": "1. Applicant Photo 2. Proof of Address 3. Identity Proof (PAN Card or Aadhaar Card or EPIC Card or Driving Licence or Passport, etc.) 4. Fee Challan Copy 5. Registered Lease Document 6. Rental Agreement 7. NOC from Concern Department 8. Legal title documents(Patta or Title Deed etc.) 9. Local body receipt 10. Self Declaration 11. Site Map (A4 size) or Buliding Plan Approval 12. Any other supporting documents (if any) 13. Application form details"
+    },
+    {
+        "department": "Tamil Nadu Civil Supplies Corporation",
+        "service_name": "Farmer Registration Form",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/TNS-501_Farmer_Registration_Form User Manual(CSCOperator).pdf",
+        "application_fee": "0",
+        "service_charge": "20",
+        "documents": "NA"
+    },
+    {
+        "department": "TN Electrical Inspectorate",
+        "service_name": "Issuance of Drawing Approval",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_TEI_401_Issuance_of_Drawing_Approval.pdf",
+        "application_fee": "0",
+        "service_charge": "300",
+        "documents": "NA"
+    },
+    {
+        "department": "TN Electrical Inspectorate",
+        "service_name": "Issuance of Safety Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_TEI_402_Issuance_of_Safety_Certificate.pdf",
+        "application_fee": "0",
+        "service_charge": "300",
+        "documents": "NA"
+    },
+    {
+        "department": "TNHUD",
+        "service_name": "Application for Registration of Tenancy Agreement",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/TNHUD Registration_of_Tenancy_services.pdf",
+        "application_fee": "0",
+        "service_charge": "100",
+        "documents": "NA"
+    },
+    {
+        "department": "Public Works Department",
+        "service_name": "User Registration",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_PWD_401_User_Registration.pdf",
+        "application_fee": "0",
+        "service_charge": "0",
+        "documents": "NA"
+    },
+    {
+        "department": "Public Works Department",
+        "service_name": "Online Sand Booking",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_PWD_402_Online_Sand_Booking.pdf",
+        "application_fee": "0",
+        "service_charge": "100",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Registration",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB-201_Claim_Registration.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Renewal",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB-202_Claim_Renewal.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Updation",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB-203_Claim_Updation.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board Accident Death at worksite",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_204_Claim_Application_Construction_Board_Accident.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Compensation for accidental death and disability",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_205_Claim_Application_Construction_Board_Compensation.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Disability Pension",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_206_Claim_Application_Construction_Board_Disability.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Education Assistance for 10th /12th Standard pass",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_207_Claim_Application_Construction_Board_Education.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Educational Assistance for girl children studying 10th / 11th / 12th",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_208_Claim_Application_Construction_Board_Education.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Educational Assistance for Higher Education",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_209_Claim_Application_Construction_Board_Education.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Educational Assistance for studying in 6th/7th/8th/9th",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_210_Claim_Application_Construction_Board_Education.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Family pension",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_211_Claim_Application_Construction_Board_Family.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Funeral Expenses / Natural Death",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_212_Claim_Application_Construction_Board_Funeral.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Marriage Assistance",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_213_Claim_Application_Construction_Board_Marriage.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Maternity / Miscarriage / Termination of Pregnancy",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_214_Claim_Application_Construction_Board_Maternity.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Pension",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_215_Claim_Application_Construction_Board_Pension.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Construction Board-Reimbursement of purchase of spectacles",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_216_Claim_Application_Construction_Board_Reimbursement.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Compensation for accidental death and disability",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_217_Claim_Application_Manual_Board_Compensation.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Disability Pension",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_218_Claim_Application_Manual_Board_Disability.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Education Assistance for 10th /12th Standard pass",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_219_Claim_Application_Manual_Board_Education.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Educational Assistance for girl children studying 10th / 11th / 12th",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_220_Claim_Application_Manual_Board_Educational.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Educational Assistance for Higher Education",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_221_Claim_Application_Manual_Board_Educational.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Educational Assistance for studying in 6th/7th/8th/9th",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_222_Claim_Application_Manual_Board_Educational.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Funeral Expenses / Natural Death",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_224_Claim_Application_Manual_Board_Funeral_Expenses.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Marriage Assistance",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_225_Claim_Application_Manual_Board_Marriage.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Maternity / Miscarriage / Termination of Pregnancy",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_226_Claim_Application_Manual_Board_Maternity.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Pension",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_227_Claim_Application_Manual_Board_Pension.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Manual Board-Reimbursement of purchase of spectacles",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_228_Claim_Application_Manual_Board_Reimbursement.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Compensation for accidental death and disability",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_229_Claim_Application_Driver_Board_Compensation.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Disability Pension",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_230_Claim_Application_Driver_Board_Disability.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Education Assistance for 10th /12th Standard pass",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_231_Claim_Application_Driver_Board_Education.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Educational Assistance for girl children studying 10th / 11th / 12th",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_232_Claim_Application_Driver_Board_Educational.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Educational Assistance for Higher Education",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_233_Claim_Application_Driver_Board_Educational.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Educational Assistance for studying in 6th/7th/8th/9th",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_234_Claim_Application_Driver_Board_Educational.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Funeral Expenses / Natural Death",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_236_Claim_Application_Driver_Board_Funeral_expenses.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Marriage Assistance",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_237_Claim_Application_Driver_Board_Marriage.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Maternity / Miscarriage / Termination of Pregnancy",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_238_Claim_Application_Driver_Board_Maternity.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Pension",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_239_Claim_Application_Driver_Board_Pension.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application-Driver Board-Reimbursement of purchase of spectacles",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_240_Claim_Application_Driver_Board_Reimbursement.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application - Return",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB-241_Claim_Application_return.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "ID Card Download",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB-242_ID_Card_download.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application - Amendment",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB-243_CLaim_Application_Amedment.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Claim Application - Transfer",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB-244_CLaim_Application_Transfer.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Housing Scheme",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_245_Housing_Scheme.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Unorganised Workers Welfare Board",
+        "service_name": "Live certificate for Pensioners",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSC_TWB_246_Live_certificate_for_pensioner.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "TANGEDCO",
+        "service_name": "Electricity Bill Payment",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_Electricity_Bill_Payment.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "TANGEDCO",
+        "service_name": "Registration of New LT Connection",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/Electricity_Bill_Payment_New_LTConnection.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "TANGEDCO",
+        "service_name": "Payment of New LT connection",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_Registration_of_EB_connection.pdf",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "TNEGA",
+        "service_name": "PDS - Aadhaar enrollement",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "30",
+        "documents": "NA"
+    },
+    {
+        "department": "Treasuries And Accounts",
+        "service_name": "Jeevan Pramaan – Digital Life Certificate Generation",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "NA"
+    },
+    {
+        "department": "WAQF Board",
+        "service_name": "Ulema Pension Scheme",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/WAQF-Operators Manual.pdf",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "\"1. Age proof (Doctor Certificate from authorised government doctor, Not below the rank of Assistant Civil Surgeon or Birth Certificate or Other Age Proof) 2. Photo of Applicant 3. Service Certificate 4. National Disability ID Card(In case of Physically challenged) 5. Aadhaar Card Copy"
+    },
+    {
+        "department": "Water Resource Department",
+        "service_name": "No objection certificate to extract ground water",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator WRD-101 No Objection certificate for ground water.pdf",
+        "application_fee": "0",
+        "service_charge": "300",
+        "documents": "1. Attested copy (Notary public) of registered land ownership document in the name of Applicant or registered lease agreement for a minimum period of 5 years in the name Of applicant 2. FMB Sketch (for well and industry locations) 3. Patta copy 4. Latest Encumbrance Certificate (EC) for last 3 years minimum or more 5. Annexure I - Items (1) to (4) obtained from the concerned Revenue Inspector (RI) 6. Annexure II - Obtained from concerned Panchayat President or Municipal or Corporation Commissioner 7. Annexure III - Certificate of Assurance or Undertaking letter duly signed by the applicant 8. Undertaking (Rs.20 stamp paper) of the applicant regarding the pumping test for issuing NOC 9. Indemnity Bond (Rs.100 stamp paper) duly attested by Notary Public 10. Details of Required Quantity of Ground Water 11. Not to scale topo sketch showing the location of the applicant wells and the industry, surrounding wells with the spacing 12. Land-use Certificate or Undertaking for conversion of land in Ayacut or Residential area 13. Copy of EB card with tariff paid details (Commercial connection)"
+    },
+    {
+        "department": "Differently Abled",
+        "service_name": "Marriage Assistance",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/MarriageAssistance_Operators.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Spouse Aadhar Card 2.Family Ration Card 3.Aadhaar Card or Proof of Address 4.Bank Passbook Front Page 5.SSLC Certificate 6.UDID/State ID card 7.Degree or Diploma Certificate (Only for Diploma / Degree Holder) 8.Marriage Invitation 9.Marriage Registration Certificate Xerox 10.Photo taken during marriage 11.Spouse Photo Card 12.N.O.C from the Social Welfare Department 13.Marriage certificate for both husband and wife from (V.A.O) Village administrative officer"
+    },
+    {
+        "department": "Differently Abled",
+        "service_name": "Maintance Allownces",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/MaintainanceAllowance_Operators.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhaar Card 2.Any ID Proof of Parents/Guardian 3.Bank Pass Book ( Front Page) 4.Family Card(Ration Card) 5.Differently Abled Certificate / National Identity Card for Differently Abled 6.Photo of Applicant 7.Photo of the Parent / Guardian 8.UDID 9.Others"
+    },
+    {
+        "department": "Differently Abled",
+        "service_name": "Loan Asistance",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/LoanAssistance_Operators.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Aadhar Card / Proof of Address 2.Differently Abled Certificate 3.First page of bank pass book 4.Photo of Applicant 5.UDID/State ID card 6.Family Ration Card"
+    },
+    {
+        "department": "Differently Abled",
+        "service_name": "Educational Training",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_WDA-203_Application_for_Educational_Training_Institution_Scheme_for_Disabled_Persons.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.National ID card 2.Family Ration Card (Front & back side) 3.Adhaar Card Copy 4.Unique Disability ID Card 5.If Vocational training, Previous Education Qualification Certificate 6.Doctor certificate for Percentage of Disability 7.Community Certificate 8.Birth Certificate 9.Applicant Photo"
+    },
+    {
+        "department": "Differently Abled",
+        "service_name": "Special Education",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_WDA-204_Application_for_Special_Education_Scheme_for_Disabled_Persons.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.National ID card 2.Family Ration Card (Front & back side)/Adhaar Card Copy 3.Adhaar Card Copy 4.Unique Disability ID Card (UDID) 15 days\r\n                                                5.Doctor certificate for Percentage of Disability 6.Community Certificate 7.Birth Certificate 8.Applicant Photo 9.If Vocational training, Previous Education Qualification Certificate"
+    },
+    {
+        "department": "Differently Abled",
+        "service_name": "Application For Assistive Devices",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_WDA-206_Application_for_Obtaining_Assistive_Devices.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Applicant Photo 2.National ID card 3.Family Ration Card (Front & back side) 4.Adhaar Card Copy 5.Unique Disability ID Card (UDID) 6.Tailoring Course Completion Certificate 7.Doctor certificate for Percentage of Disability"
+    },
+    {
+        "department": "Differently Abled",
+        "service_name": "Application For Scholarship",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/CSCOperator_WDA-205_Application For Scholarship.pdf",
+        "application_fee": "0",
+        "service_charge": "10",
+        "documents": "1.Applicant Photo 2.National ID card 3.Family Ration Card (Front & back side) 4.Adhaar Card Copy 5.Unique Disability ID Card (UDID) 6.Statement of marks of previous year Annual Examination 7.Bank Pass Book 8.Certificate from currently studying institution 9.Doctor certificate for Percentage of Disability"
+    },
+    {
+        "department": "Chennai Metro Water Supply & Sewerage Board",
+        "service_name": "Payment of water tax & charges",
+        "pdf_link": "",
+        "application_fee": "Upto 100 100 – 1000 1001 - 3000 3001 - 5000 5001 – 10000 10001 and above",
+        "service_charge": "5 15 25 40 50 60",
+        "documents": "NA"
+    },
+    {
+        "department": "Employment and Training",
+        "service_name": "EMP - 502 Printing of Registration ID",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Employment and Training",
+        "service_name": "EMP - 504 Application for Renewal",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Backward classes and Most Backward Classes Welfare department",
+        "service_name": "BCM - 202 Distribution of Iron Box",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Backward classes and Most Backward Classes Welfare department",
+        "service_name": "BCM-203 Distribution of Sewing Machine",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of Transport",
+        "service_name": "COT-602 Filing of Application For Learning Licence",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of Transport",
+        "service_name": "COT-604 Verify Payment Status",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of Survey & Settlement",
+        "service_name": "CSS-701 Patta Appeal",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Department of Government Examination",
+        "service_name": "DEG-101 Migration certificate",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Department of Government Examination",
+        "service_name": "DEG-102 Duplicate certificate",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Department of Government Examination",
+        "service_name": "DEG-103 Certified copy of mark list",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-103 Issuance of PSTM SCERT DIET",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-111 Evaluation of D.EL.Ed of Other States Karnataka and Kerala and Andhra",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-112 Duplicate TC and Triplicate TC",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-116 Issuance of Duplicate Certificates for TET Paper I and Paper II",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-117 Genuiness of Sports Certificate",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-119 Conduct Certificate",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-120 Form 4 Application",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-201 NOC for Schools",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-202 APPLICATION FOR PERMISSION TO ESTABLISH A SELF FINANACING PRIVATE SCHOOL",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Commissionerate of School Education",
+        "service_name": "DSE-203 Genuineness of Mark certificates",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Treasuries And Accounts",
+        "service_name": "IFH-502 Pensioners Annual Mustering",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Kalaignar Magalir Urimai Thittam Scheme",
+        "service_name": "KMU - 103 KMUT Check Status",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Labour Welfare Board",
+        "service_name": "LWB-101 Pensioners – Life Certificate",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Minority Welfare",
+        "service_name": "MWL-101 Christian Womens Aid Society",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Minority Welfare",
+        "service_name": "MWL-102 Financial Assistance to Jerusalem Pilgrimage",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Minority Welfare",
+        "service_name": "MWL-103 Muslim Women Aid Society",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Minority Welfare",
+        "service_name": "MWL-104 Financial Assistance for Repair/Renovation of the church",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "REV-126 Community Certificate for Converted BC Muslim",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Online Community Certificate already obtained(Father or Mother or Siblings) 3. Certificate issued by some designated authority 4. Any Address Proof 5. Conversion Proof Document 6. Self-Declaration of Applicant"
+    },
+    {
+        "department": "Social Welfare",
+        "service_name": "SWL-101 Application for Sathiyavanimuthu Ammaiyar Ninaivu free supply of sewing machine",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Social Welfare",
+        "service_name": "SWL-102 Chief Ministers Girl Child Protection Scheme - I",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Social Welfare",
+        "service_name": "SWL-103 Chief Ministers Girl Child Protection Scheme - II",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Social Welfare",
+        "service_name": "SWL-104 Annai Terasa Ammaiyar Ninaivu Orphan Girl Marriage Scheme",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Social Welfare",
+        "service_name": "SWL-105 Dharmambal Ammaiyar Ninaivu Widow Re-Marriage Assistance scheme",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Social Welfare",
+        "service_name": "SWL-106 Dr.Muthulakshmi Reddy Ninaivu Inter caste Marriage Assistance Scheme",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Social Welfare",
+        "service_name": "SWL-107 EVR Maniammaiyar Ninaivu Widow Daughter Marriage Assistance Scheme",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-403 User Registration",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-404 Apply Lift Erection Permission (Form A)",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-405 View Lift Erection Permission Status (Form B)",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-406 Lift Erection Completion Report Form (C) & (D) & (E) - Form D",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-407 Lift Erection Completion Report Form (C) & (D) & (E) - Form E",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-408 Lift Erection Completion Report Form (C) & (D) & (E) - Form C",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-409 Lift Intimate Completion",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-410 Lift Licence Status (Form F)",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-411 Lift Licence Renewal (Form G)",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Electrical Inspectorate",
+        "service_name": "TEI-412 Payment Details Updation",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-201 Fishermen Enrollment",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-202 Education Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-203 Marriage Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-204 Pregnancy Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-205 Natural Death Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-206 Funeral Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-207 Accident Death Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-208 Disability Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-209 Missing while Fishing Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Fishermen Welfare Board",
+        "service_name": "TFW-210 Death while Fishing Assistance",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu Housing and Urban Development",
+        "service_name": "THB-401 Application for Registration of Tenancy Agreement",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "TN State Transport Undertakings(STU’s)",
+        "service_name": "TNS-103 Pensioners–Life Certificate",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu State Transport Corporation (TNSTC)",
+        "service_name": "TNS-401 Application of Bus Pass for Differently abled Person/Mentally Retared/Locomotor Disorder/Vision Persons",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Tamil Nadu State Transport Corporation (TNSTC)",
+        "service_name": "TNS-402 Application of Bus Pass for Freedom Fighter, Tamil Ariynargar, Tamil Award Winner",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "TN Transport",
+        "service_name": "TPD-601 eChallan Payment",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "TN Transport",
+        "service_name": "TPD-601 eChallan Payment",
+        "pdf_link": "",
+        "application_fee": "NA",
+        "service_charge": "NA",
+        "documents": "NA"
+    },
+    {
+        "department": "Revenue Administration",
+        "service_name": "REV-112 First Graduate Certificate for Employment",
+        "pdf_link": "",
+        "application_fee": "0",
+        "service_charge": "60",
+        "documents": "1. Photo 2. Any Address Proof 3. Applicant Transfer Certificate 4. Father Transfer Certificate 5. Mother Transfer Certificate 6. Self Declaration of Applicant 7. Family Card 8. Self Declaration of father 9. Self Declaration of Mother 10. Educational Certificate of the applicant 11. First Graduate certificate on scholarship 12. Others"
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN -101  Application for CMWSSB eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN -102  Application for PWD eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN -103 Application for TWAD eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN -104 Application for Highways  eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN -106 Application for GCC eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN-107  Application for WRD eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN-108 Application for RD  eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Econtractors Registration for ALL",
+        "service_name": "FIN-109 Application for DMA  eContractor",
+        "pdf_link": "",
+        "application_fee": "Based on class of Service",
+        "service_charge": "500",
+        "documents": ""
+    },
+    {
+        "department": "Tamil Nadu Public Works Department",
+        "service_name": "PWD-403 Empanelment of Engineers under TN Public Buildings Licensing Rules",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/TNPublicBuildingsLicensingRules.pdf",
+        "application_fee": "500",
+        "service_charge": "200",
+        "documents": "1.Aadhaar Card 2.Diploma/ Degree/ PG/Ph.D Certificate 3.Experience Certificate 4.Professional Certifications 5.Empanelment Certificate (if already empanelled in the districts)"
+    },
+    {
+        "department": "Directorate of Fire & Rescue",
+        "service_name": "DFR-001 Fire Service for Category C",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/FireSafetyforCategoryC.pdf",
+        "application_fee": "500",
+        "service_charge": "200",
+        "documents": "1.PAN 2.Ownership document/ Patta with QR/ Rental or Lease agreement 3.Building plan 4.Self-certified fire safety protocol (Download and fill the Protocol Template and upload in the portal in pdf format) 5.Public buildings license 6.Signature of the Owner/Manager (in Jpeg format) 7.Proof of Maintenance of Fire Equipment (Document related to the regular maintenance of the fire equipment in the premised)"
+    },
+    {
+        "department": "Department of Social Welfare and Women Empowerment",
+        "service_name": "SWE-201 License for Working Women’s Hostel",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/WorkingWomensHostel.pdf",
+        "application_fee": "1000",
+        "service_charge": "200",
+        "documents": "1.PAN 2.Public Buildings License 3.Fire Safety Document 4.Sanitation Certificate 5.Ownership or Rental / Lease Agreements 6.Self-Attested security protocol 7.Self- attested kitchen / food protocol 8.Annual report (Every Year)"
+    },
+    {
+        "department": "Department of Municipal Administration and Water Supply",
+        "service_name": "MAW-402 Public Buildings License",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/PublicBuildingsLicense.pdf",
+        "application_fee": "0",
+        "service_charge": "500",
+        "documents": "1.PAN 2.Ownership Deed/ Rental or Lease Agreement 3.Form B (Structural Soundness Certificate) issued by empanelled structural engineer."
+    },
+    {
+        "department": "Department of Social Welfare and Women Empowerment",
+        "service_name": "SWE-203 License for Homes for Women",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/LicenseforHomesforWomen.pdf",
+        "application_fee": "3000",
+        "service_charge": "200",
+        "documents": "1.PAN 2.Property Ownership Document / Rental/Lease Agreement 3.Public Building License 4.Fire Safety Document 5.Sanitation Certificate 6.Self-attested Security Protocol 7.Self-attested Kitchen Protocol 8.Annual Report (Every Year)"
+    },
+    {
+        "department": "Department of Social Welfare and Women Empowerment",
+        "service_name": "SWE-202 Registration of Old Age Homes",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/RegistrationofOldAgeHomes.pdf",
+        "application_fee": "3000",
+        "service_charge": "200",
+        "documents": "1.PAN 2.Public Building License 3.Fire Safety Document 4.Sanitation Certificate 5.Ownership or Rental / Lease Agreements 6.Self-attested Security Protocol 7.Self-Attested Health protocol 8.Self- attested kitchen / food protocol 9.Annual Report (Every Year)"
+    },
+    {
+        "department": "Directorate of Public Health and Preventive Medicine",
+        "service_name": "DPH-403 Sanitation Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/SanitationCertificate.pdf",
+        "application_fee": "500",
+        "service_charge": "200",
+        "documents": "1.PAN 2.Signature of owner/manager 3.Self attested Sanitation Protocol being followed on the premises"
+    },
+    {
+        "department": "Department of Municipal Administration and Water Supply",
+        "service_name": "MAW-401 Structural Soundness Certificate",
+        "pdf_link": "https://www.tnesevai.tn.gov.in/PPT/StructuralSoundnessCertificate.pdf",
+        "application_fee": "0",
+        "service_charge": "200",
+        "documents": "1.Inspection Report of the Building by the engineer 2.Signature of engineer 3.Any other supporting documents related to the structural soundness of the building"
+    }
+]

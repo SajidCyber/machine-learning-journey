@@ -1,0 +1,33 @@
+Company Name: ABC Retail Pvt Ltd
+
+About:
+ABC Retail is an e-commerce company specializing in electronics, fashion, and home appliances.
+
+Policies:
+
+Refund Policy:
+Customers can request a refund within 7 days of delivery.
+Refunds are processed within 5-7 business days after approval.
+
+Return Policy:
+Products can be returned within 10 days if unused and in original packaging.
+
+Shipping Policy:
+Standard delivery takes 3-5 business days.
+Express delivery takes 1-2 business days.
+
+Customer Support:
+Support is available 24/7 via email and phone.
+Email: support@abcretail.com
+Phone: +91-9876543210
+
+Business Hours:
+Monday to Saturday: 9 AM to 8 PM
+Sunday: Closed
+
+Data Privacy:
+Customer data is encrypted and not shared with third parties without consent.
+
+Loyalty Program:
+Customers earn points on every purchase which can be redeemed for discounts.
+
